@@ -1,5 +1,5 @@
 
-<h3 align="left">Hi 👋! My name is Suzan8</h3>
+<h3 align="left">Hi 👋! My name is Suzan</h3>
 
 <h4 align="left">AI engineer  | ML | DL | NLP</h4>
 
@@ -42,5 +42,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Suzan8/Suzan8/output/snake.svg" alt="Snake animation" />
+
 
