@@ -1,10 +1,14 @@
-إليك ا
-<h2 align="left">Hi 👋! My name is Suzan8</h2>
+
+<h3 align="left">Hi 👋! My name is Suzan8</h3>
+
+<h4 align="left">AI engineer  | ML | DL | NLP</h4>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Suzan8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Suzan8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+<br clear="both">
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZiOWYzYXdmdWloaGJ2dG80OW54cm1ldWV0ZDB4YWc1eHlhNjd5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif"  />
 
@@ -13,7 +17,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
   <img width="12" />
@@ -40,5 +43,4 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Suzan8/Suzan8/output/snake.svg" alt="Snake animation" />
-
 
