@@ -42,4 +42,3 @@
 <img src="https://raw.githubusercontent.com/Suzan8/Suzan8/output/snake.svg" alt="Snake animation" />
 
 
-تم تغيير username إلى Suzan8 في جميع الأماكن التي تم ذكره فيها.
